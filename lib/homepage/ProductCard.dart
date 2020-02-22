@@ -14,7 +14,7 @@ class ProductCard extends StatelessWidget {
           ListTile(
             leading: Icon(Icons.add_shopping_cart),
             title: Text(product.name),
-          
+
             trailing: Icon(Icons.check_box),
           )
         ],
